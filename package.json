@@ -31,7 +31,7 @@
     "co": "^4.0.0"
   },
   "devDependencies": {
-    "eslint": "^3.5.0",
+    "eslint": "^6.6.0",
     "eslint-config-connesc": "^2.0.0"
   }
 }
